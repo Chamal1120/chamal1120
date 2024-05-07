@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-stats-alpha.vercel.app/api?username=chamal1120
+
 <!--
 **Chamal1120/chamal1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
