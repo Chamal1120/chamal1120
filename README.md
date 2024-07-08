@@ -1,8 +1,8 @@
- ![Lofi Coding..](/assets/loficode.avif)
+ ![Coding..](/assets/loficode.avif)
  
  # Hello, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width=40> what's up?
 
- My name is <b>Chamal</b> and I'm a CS student from <img src="assets/SLcircle.png" width=15> <b> Sri Lanka.</b>
+ My name is <b>Chamal</b> and I'm a CS student from <b> Sri Lanka.</b>
 
 ###
 
@@ -33,7 +33,7 @@
     </a>
 </div>
 
-###
+<br>
 
 ## Thanks for paying a visit 🧡
 
