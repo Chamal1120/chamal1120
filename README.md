@@ -1,1 +1,39 @@
-### Hi, I'm Chamal 👋
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdia3Boeml3c25hMjhvb3loajZtc3pyZnN4N2RvaWJkMmtkc3Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bv8r3wRZK8dYk25U0y/giphy.webp" align="left"></img>
+
+<h1 align="left">Hello, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width=40> what's up?</h2>
+
+###
+
+<p> My name is <b>Chamal</b> and I'm a CS student from <img src="assets/SLcircle.png" width=16> <b>Sri Lanka.</b> </p>
+
+
+###
+
+## About Me
+
+- ✨ Contributing to open source sine 2023
+- 📚 Currently learning C
+- 🎯 Goal: Create FOSS products to the community.
+- 🎲 Watch anime, "rice" unix-like OSes and blog about them.
+
+## I code with
+
+<div style = "display: flex; gap: 5px">
+
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/C-svg.png" />
+</a>
+
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/javascript-svgrepo-com.svg" />
+</a>
+
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/python-svgrepo-com.svg" />
+</a>
+
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/lua-svgrepo-com.svg" />
+</a>
+
+</div>
