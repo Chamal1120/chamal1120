@@ -1,4 +1,4 @@
- ![Lofi Coding..](/assets/loficode.png)
+ ![Lofi Coding..](/assets/loficode.avif)
  
  # Hello, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width=40> what's up?
 
@@ -32,6 +32,8 @@
     <img align="left" title="JavaScript" alt="Lua" width="40px" src="./assets/lua-svgrepo-com.svg" />
     </a>
 </div>
+
+###
 
 ## Thanks for paying a visit 🧡
 
