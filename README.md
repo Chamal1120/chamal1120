@@ -2,13 +2,13 @@
  
  # Hello, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width=40> what's up?
 
- My name is <b>Chamal</b> and I'm a CS student from <b> Sri Lanka.</b>
+ My name is <b>Chamal</b> and I'm a CS student from <b> SLTC Research University, Sri Lanka.</b>
 
 ###
 
 ## About Me
 
-- ✨ Contributing to open source sine 2023
+- ✨ Contributing to open source
 - 📚 Currently learning C
 - 🤓 Vim nerd
 - 🎯 Goal: Create FOSS products to the community.
