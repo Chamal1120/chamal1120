@@ -20,11 +20,10 @@ My name is <b>Chamal</b> and I'm a CS student from <b> SLTC Research University,
 
 <br>
 
-[![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917)](https://en.wikipedia.org/wiki/C_(programming_language))&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://www.svgrepo.com/show/349419/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;
-[![Python3](https://www.svgrepo.com/show/452091/python.svg)](https://www.python.org/)&nbsp;&nbsp;&nbsp;
-[![Lua](https://www.svgrepo.com/show/354020/lua.svg)](https://www.lua.org/)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917" width="40px"> &nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="40px"> &nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="40px"> &nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/354020/lua.svg" width="40px">
 
 ###
 
