@@ -20,16 +20,16 @@
 
 <div style = "display: flex; gap: 15px">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img align="left" title="JavaScript" alt="C" width="40px" src="./assets/C-svg.PNG" />
+    <img align="left" title="JavaScript" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/javascript-svgrepo-com.SVG" />
+    <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
     </a>
     <a href="https://www.python.org/" target="_blank">
-    <img align="left" title="JavaScript" alt="Python3" width="40px" src="./assets/python-svgrepo-com.SVG" />
+    <img align="left" title="JavaScript" alt="Python3" width="40px" src="https://www.svgrepo.com/show/452091/python.svg" />
     </a>
     <a href="https://www.lua.org/" target="_blank">
-    <img align="left" title="JavaScript" alt="Lua" width="40px" src="./assets/lua-svgrepo-com.SVG" />
+    <img align="left" title="JavaScript" alt="Lua" width="40px" src="https://www.svgrepo.com/show/354020/lua.svg" />
     </a>
 </div>
 
