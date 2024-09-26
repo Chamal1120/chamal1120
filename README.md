@@ -29,6 +29,6 @@ My name is <b>Chamal</b> and I'm a CS student from <b> SLTC Research University,
 
 <br>
 
-## Thanks for paying a visit 🧡
+## LoFi kitty greats you for coming here 🧡
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJrdml6N3N1bmYwNzVvZnl3OWlpZnlnc3M3MG8yMjVyeGRkYmV1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZXr7mOCKSkMrnuLNEu/giphy.webp" width="300px"></img>
