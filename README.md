@@ -1,20 +1,20 @@
 # Hello, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width=40> what's up?
 
-My name is <b>Chamal</b> and I'm a CS UG.
+
+My name is **Chamal** and I'm all about being "***blazingly fast***"  inside computers. Ask me anything about **Unix** and **programming** in general.
 
 ###
 
-## About Me
+### About Me
 
-- ✨ Contributing to open source
-- 📚 Currently learning C
-- 🤓 Vim nerd
+- 📚 Currently learning: Rust.
+- 🤓 Nerd about: Vim and Tmux.
 - 🎯 Goal: Create FOSS products to the community.
-- 🎲 Watch anime, "rice" unix-like OSes and blog about them.
+- 🎲 Hobbies: Watching anime, ricing my WM and blogging.
 
 ###
 
-## I code with
+### I code with
 
 <br>
 
@@ -27,6 +27,6 @@ My name is <b>Chamal</b> and I'm a CS UG.
 
 <br>
 
-## LoFi kitty greets you for coming here 🧡
+### Hey look! Lofi kitty greets you 🧡
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJrdml6N3N1bmYwNzVvZnl3OWlpZnlnc3M3MG8yMjVyeGRkYmV1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZXr7mOCKSkMrnuLNEu/giphy.webp" width="300px"></img>
