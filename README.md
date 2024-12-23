@@ -7,7 +7,7 @@ My name is **Chamal** and I'm all about being "***blazingly fast***"  inside com
 
 ### About Me
 
-- 📚 Currently learning: Rust.
+- 📚 Currently learning: Dart.
 - 🤓 Nerd about: Vim and Tmux.
 - 🎯 Goal: Create FOSS products to the community.
 - 🎲 Hobbies: Watching anime, ricing my WM and blogging.
