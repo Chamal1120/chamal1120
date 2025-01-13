@@ -3,7 +3,7 @@
 ###
 
 ```bash
-$ env | egrep '^(EDITOR|LANG|SHELL|TERM|USER|WM)=' | sort -u
+$ env | grep -E '^(EDITOR|LANG|SHELL|TERM|USER|WM)=' | sort -u
 EDITOR=nvim
 LANG=en_US.UTF-8
 SHELL=/bin/zsh
