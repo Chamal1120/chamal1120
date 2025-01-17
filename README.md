@@ -17,8 +17,8 @@ chamal1120=chamal
 randy=chamal
 
 $ cat /etc/profile.d/personal_info.sh | sort -u
-PROGRAMMING_LANGS="Bash, C, Dart, Python, JavaScript"
-LINKEDIN="linkedin.com/in/chamalrandika"
 BLOG="dev.to/chamal1120"
+LINKEDIN="linkedin.com/in/chamalrandika"
+PROGRAMMING_LANGS="Bash, C, Dart, Python, JavaScript"
 ```
 
