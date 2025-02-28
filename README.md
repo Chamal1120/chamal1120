@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chamal</h1>
+<h4 align="left">Sup N3rdz!</h4>
 
 ###
 
