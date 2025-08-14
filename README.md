@@ -8,12 +8,9 @@ EDITOR=vim
 LANG=en_US.UTF-8
 SHELL=/bin/zsh
 TERM=tmux
-USER=chamal
 WM=hyprland
 
-$ cat /etc/profile.d/personal_info | sort -u
-BLOG="dev.to/chamal1120"
-LINKEDIN="linkedin.com/in/chamalrandika"
+$ cat /etc/profile.d/langs
 PROGRAMMING_LANGS="Bash, C, Dart, JavaScript"
 ```
 
