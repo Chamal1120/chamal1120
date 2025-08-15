@@ -11,6 +11,6 @@ TERM=tmux
 WM=hyprland
 
 $ cat /etc/profile.d/langs
-PROGRAMMING_LANGS="Bash, C, Dart, JavaScript"
+PROGRAMMING_LANGS="Bash, C, C#, TypeScript"
 ```
 
