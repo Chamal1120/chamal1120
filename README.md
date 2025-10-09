@@ -8,9 +8,8 @@ EDITOR=vim
 LANG=en_US.UTF-8
 SHELL=/bin/zsh
 TERM=tmux
-WM=hyprland
 
 $ cat /etc/profile.d/langs
-PROGRAMMING_LANGS="Bash, C, C#, TypeScript"
+PROGRAMMING_LANGS="Bash, C, C#, Dart, TypeScript"
 ```
 
